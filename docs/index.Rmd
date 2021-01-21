@@ -1,0 +1,25 @@
+---
+title: "Public Brew"
+output: html_document
+---
+
+<p align="center"><img src="img/templar_stamp.jpeg" alt="ponga" width="300" /></p>
+<h2 align="center">The Main Publication Brewery for Science!</h2>
+
+***
+
+# Brief Prolegomenon
+This space is aimed to help the reports sharing of a poor and ill Brazilian PhD student ...
+
+
+## Contents at a Glance
+sfvsdfvsdv  
+rwefwerfweferf
+ffff5
+```{bash}
+ls -l ~
+```
+
+Just to see `ponga 5` and inlines like $A*\pi{}^5$.
+
+Now let's try some whidgets: [My chosen Widgets](wid.html)
