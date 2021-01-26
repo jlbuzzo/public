@@ -3,7 +3,7 @@ title: "Public Brew"
 output: html_document
 ---
 
-<p align="center"><img src="img/templar_stamp.jpeg" alt="ponga" width="300" /></p>
+<p align="center"><img src="images/templar_stamp.jpeg" alt="ponga" width="300" /></p>
 <h2 align="center">The Main Publication Brewery for Science!</h2>
 
 ***
